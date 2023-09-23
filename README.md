@@ -46,6 +46,3 @@ If not they will default to the following values:
 	DEBUG=true
 	SQLALCHEMY_DATABASE_URI=sqlite:///database.db
 
-# License
-
-This project is under the [MIT](https://github.com/xemeds/tiny0/blob/master/LICENSE) license.
